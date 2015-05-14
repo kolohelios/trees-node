@@ -24,5 +24,11 @@
     "hoek": "^2.13.0",
     "joi": "^6.4.1",
     "mongoose": "^4.0.3"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "coveralls": "^2.11.2",
+    "lab": "^5.8.1",
+    "sinon": "^1.14.1"
   }
 }
